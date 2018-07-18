@@ -1,0 +1,31 @@
+{
+  "name": "@mdi/js",
+  "version": "2.5.94",
+  "description": "Dist for Material Design Icons for JS/TypeScript",
+  "main": "mdi.js",
+  "types": "mdi.d.ts",
+  "scripts": {
+    "build": "node build.js && tsc -d mdi.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Templarian/MaterialDesign-JS.git"
+  },
+  "keywords": [
+    "Material",
+    "Design",
+    "Icons",
+    "mdi"
+  ],
+  "author": "Austin Andrews",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Templarian/MaterialDesign-JS/issues"
+  },
+  "homepage": "https://github.com/Templarian/MaterialDesign-JS#readme",
+  "devDependencies": {
+    "@mdi/svg": "^2.5.94",
+    "@mdi/util": "^0.1.1"
+  }
+}
