@@ -4,6 +4,7 @@
   "description": "Dist for Material Design Icons for JS/TypeScript",
   "main": "mdi.js",
   "types": "mdi.d.ts",
+  "sideEffects": false,
   "scripts": {
     "build": "node build.js && tsc -d mdi.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
