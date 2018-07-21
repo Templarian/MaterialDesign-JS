@@ -1,1 +1,3 @@
 node_modules
+# reduce module size
+mdi.ts
