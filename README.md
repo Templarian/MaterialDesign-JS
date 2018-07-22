@@ -2,11 +2,21 @@
 
 # JavaScript/TypeScript - Material Design Icons
 
-JavaScript and TypeScript distribution for the [Material Design Icons](https://materialdesignicons.com).
+JavaScript and TypeScript distribution for the [Material Design Icons](https://materialdesignicons.com). This module contains all the path data for all icons.
 
 ```
 npm install @mdi/js
 ```
+
+## Usage
+
+```js
+import { mdiAccount } from '@mdi/js'
+
+console.log(mdiAccount); // "M...Z"
+```
+
+> Note: [WebPack](https://webpack.js.org) 4 or [Rollup](https://rollupjs.org) will tree shake unused icons.
 
 ## Related Packages
 
