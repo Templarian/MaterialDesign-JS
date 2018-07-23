@@ -6,7 +6,7 @@
   "types": "mdi.d.ts",
   "sideEffects": false,
   "scripts": {
-    "build": "node build.js && tsc -d mdi.ts --target es5 --module es2015",
+    "build": "node build.js && tsc -d mdi.ts --target es2015",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
