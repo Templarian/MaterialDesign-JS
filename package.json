@@ -6,16 +6,8 @@
   "module": "mdi.js",
   "types": "mdi.d.ts",
   "sideEffects": false,
-  "files": [
-    "mdi.js",
-    "mdi.d.ts",
-    "mdi.ts",
-    "commonjs/mdi.js",
-    "commonjs/mdi.d.ts",
-    "README.md"
-  ],
   "scripts": {
-    "build": "npm run buildjs && npm run es5 && npm run commonjs && npm run umd",
+    "build": "npm run buildjs && npm run es5 && npm run commonjs",
     "buildjs": "node build.js",
     "es5": "tsc -d mdi.ts --target es5 --module es2015",
     "commonjs": "tsc -d mdi.ts --outDir commonjs",
