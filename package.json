@@ -2,11 +2,15 @@
   "name": "@mdi/js",
   "version": "2.5.94",
   "description": "Dist for Material Design Icons for JS/TypeScript",
-  "main": "mdi.js",
+  "main": "commonjs/mdi.js",
+  "module": "mdi.js",
   "types": "mdi.d.ts",
   "sideEffects": false,
   "scripts": {
-    "build": "node build.js && tsc -d mdi.ts --target es5 --module es2015",
+    "build": "npm run buildjs && npm run es5 && npm run commonjs",
+    "buildjs": "node build.js",
+    "es5": "tsc -d mdi.ts --target es5 --module es2015",
+    "commonjs": "tsc -d mdi.ts --outDir commonjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -26,7 +30,7 @@
   },
   "homepage": "https://github.com/Templarian/MaterialDesign-JS#readme",
   "devDependencies": {
-    "@mdi/svg": "^2.5.94",
+    "@mdi/svg": "^2.6.95",
     "@mdi/util": "^0.1.1"
   }
 }
