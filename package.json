@@ -1,6 +1,6 @@
 {
   "name": "@mdi/js",
-  "version": "2.5.94",
+  "version": "2.6.95",
   "description": "Dist for Material Design Icons for JS/TypeScript",
   "main": "commonjs/mdi.js",
   "module": "mdi.js",
