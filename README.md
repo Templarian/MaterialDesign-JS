@@ -22,8 +22,9 @@ console.log(mdiAccount); // "M...Z"
 
 [NPM @MDI Organization](https://npmjs.com/org/mdi)
 
+- React: [MaterialDesign-React](https://github.com/Templarian/MaterialDesign-React)
 - SVG: [MaterialDesign-SVG](https://github.com/Templarian/MaterialDesign-SVG)
-- Webfont: [MaterialDesign-SVG](https://github.com/Templarian/MaterialDesign-Webfont)
+- Webfont: [MaterialDesign-Webfont](https://github.com/Templarian/MaterialDesign-Webfont)
 
 ## Learn More
 
