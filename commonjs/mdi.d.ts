@@ -2473,6 +2473,7 @@ export declare const mdiPagePrevious: string;
 export declare const mdiPagePreviousOutline: string;
 export declare const mdiPalette: string;
 export declare const mdiPaletteAdvanced: string;
+export declare const mdiPaletteOutline: string;
 export declare const mdiPaletteSwatch: string;
 export declare const mdiPan: string;
 export declare const mdiPanBottomLeft: string;
