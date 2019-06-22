@@ -3623,6 +3623,7 @@ export declare const mdiVkBox: string;
 export declare const mdiVkCircle: string;
 export declare const mdiVlc: string;
 export declare const mdiVoice: string;
+export declare const mdiVoiceOff: string;
 export declare const mdiVoicemail: string;
 export declare const mdiVolleyball: string;
 export declare const mdiVolumeHigh: string;
