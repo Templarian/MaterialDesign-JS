@@ -25,6 +25,7 @@ console.log(mdiAccount); // "M...Z"
 - React: [MaterialDesign-React](https://github.com/Templarian/MaterialDesign-React)
 - SVG: [MaterialDesign-SVG](https://github.com/Templarian/MaterialDesign-SVG)
 - Webfont: [MaterialDesign-Webfont](https://github.com/Templarian/MaterialDesign-Webfont)
+- Font-Build: [MaterialDesign-Font-Build](https://github.com/Templarian/MaterialDesign-Font-Build)
 
 ## Learn More
 
