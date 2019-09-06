@@ -1,6 +1,6 @@
 {
   "name": "@mdi/js",
-  "version": "4.2.95",
+  "version": "4.3.95",
   "description": "Dist for Material Design Icons for JS/TypeScript",
   "main": "commonjs/mdi.js",
   "module": "mdi.js",
@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/Templarian/MaterialDesign-JS#readme",
   "devDependencies": {
-    "@mdi/svg": "^4.2.95",
+    "@mdi/svg": "^4.3.95",
     "@mdi/util": "^0.3.0"
   }
 }
