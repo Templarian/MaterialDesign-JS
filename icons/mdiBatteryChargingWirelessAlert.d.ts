@@ -1,0 +1,2 @@
+declare const mdiBatteryChargingWirelessAlert: string;
+export default mdiBatteryChargingWirelessAlert;

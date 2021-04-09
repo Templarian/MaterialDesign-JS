@@ -1,0 +1,2 @@
+declare const mdiAccountMultipleRemoveOutline: string;
+export default mdiAccountMultipleRemoveOutline;

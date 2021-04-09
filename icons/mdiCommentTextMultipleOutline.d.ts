@@ -1,0 +1,2 @@
+declare const mdiCommentTextMultipleOutline: string;
+export default mdiCommentTextMultipleOutline;

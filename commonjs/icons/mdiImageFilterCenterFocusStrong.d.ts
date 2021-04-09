@@ -1,0 +1,2 @@
+declare const mdiImageFilterCenterFocusStrong: string;
+export default mdiImageFilterCenterFocusStrong;

@@ -1,0 +1,2 @@
+declare const mdiBookOpenPageVariantOutline: string;
+export default mdiBookOpenPageVariantOutline;

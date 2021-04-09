@@ -1,0 +1,2 @@
+declare const mdiSelectionEllipseArrowInside: string;
+export default mdiSelectionEllipseArrowInside;

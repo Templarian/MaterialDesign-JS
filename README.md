@@ -10,13 +10,35 @@ npm install @mdi/js
 
 ## Usage
 
+### Using with a Bundler
+
+JavaScript module bundlers, such as [webpack](https://webpack.js.org) 4+ or [rollup.js](https://rollupjs.org), will tree-shake unused icons when using static imports:
+
 ```js
-import { mdiAccount } from '@mdi/js'
+import { mdiAccount } from '@mdi/js';
 
 console.log(mdiAccount); // "M...Z"
 ```
 
-> Note: [WebPack](https://webpack.js.org) 4 or [Rollup](https://rollupjs.org) will tree shake unused icons.
+### Using Dynamic Imports, or without a Bundler 
+
+[Dynamic imports](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import#dynamic_imports) using `import()` or using without a bundler may cause the download/bundle size to increase significantly. Use modularised files instead.
+
+Example of dynamic import:
+
+```js
+const { default: mdiAccount } = await import('@mdi/js/icons/mdiAccount');
+
+console.log(mdiAccount); // "M...Z"
+```
+
+Or static import:
+
+```js
+import mdiAccount from '@mdi/js/icons/mdiAccount';
+
+console.log(mdiAccount); // "M...Z"
+```
 
 ## Related Packages
 

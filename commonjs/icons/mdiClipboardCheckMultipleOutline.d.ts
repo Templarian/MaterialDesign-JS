@@ -1,0 +1,2 @@
+declare const mdiClipboardCheckMultipleOutline: string;
+export default mdiClipboardCheckMultipleOutline;

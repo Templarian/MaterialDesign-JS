@@ -1,0 +1,2 @@
+declare const mdiTransitConnectionHorizontal: string;
+export default mdiTransitConnectionHorizontal;

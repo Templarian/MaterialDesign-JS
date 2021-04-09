@@ -1,0 +1,2 @@
+declare const mdiFormatTextRotationAngleDown: string;
+export default mdiFormatTextRotationAngleDown;

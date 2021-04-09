@@ -1,0 +1,2 @@
+declare const mdiFormatStrikethroughVariant: string;
+export default mdiFormatStrikethroughVariant;

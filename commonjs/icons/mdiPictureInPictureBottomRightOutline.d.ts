@@ -1,0 +1,2 @@
+declare const mdiPictureInPictureBottomRightOutline: string;
+export default mdiPictureInPictureBottomRightOutline;

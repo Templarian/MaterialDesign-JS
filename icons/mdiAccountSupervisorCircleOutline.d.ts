@@ -1,0 +1,2 @@
+declare const mdiAccountSupervisorCircleOutline: string;
+export default mdiAccountSupervisorCircleOutline;

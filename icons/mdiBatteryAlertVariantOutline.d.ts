@@ -1,0 +1,2 @@
+declare const mdiBatteryAlertVariantOutline: string;
+export default mdiBatteryAlertVariantOutline;

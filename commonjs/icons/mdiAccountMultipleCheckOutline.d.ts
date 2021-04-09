@@ -1,0 +1,2 @@
+declare const mdiAccountMultipleCheckOutline: string;
+export default mdiAccountMultipleCheckOutline;

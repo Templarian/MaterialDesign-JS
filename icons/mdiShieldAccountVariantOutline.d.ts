@@ -1,0 +1,2 @@
+declare const mdiShieldAccountVariantOutline: string;
+export default mdiShieldAccountVariantOutline;

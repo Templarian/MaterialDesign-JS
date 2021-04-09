@@ -1,0 +1,2 @@
+declare const mdiMicrosoftXboxControllerMenu: string;
+export default mdiMicrosoftXboxControllerMenu;

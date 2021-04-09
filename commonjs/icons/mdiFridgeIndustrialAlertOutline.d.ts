@@ -1,0 +1,2 @@
+declare const mdiFridgeIndustrialAlertOutline: string;
+export default mdiFridgeIndustrialAlertOutline;

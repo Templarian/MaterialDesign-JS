@@ -1,0 +1,2 @@
+declare const mdiLightbulbMultipleOffOutline: string;
+export default mdiLightbulbMultipleOffOutline;

@@ -1,0 +1,2 @@
+declare const mdiCursorDefaultGestureOutline: string;
+export default mdiCursorDefaultGestureOutline;

@@ -1,0 +1,2 @@
+declare const mdiBriefcaseVariantOffOutline: string;
+export default mdiBriefcaseVariantOffOutline;

@@ -1,0 +1,5 @@
+"use strict";
+exports.__esModule = true;
+// Material Design Icons v5.9.55
+var mdiNoteRemove = "M15 3H5C3.89 3 3 3.89 3 5V19C3 20.1 3.89 21 5 21H19C20.11 21 21 20.11 21 19V9L15 3M13.54 16.12L12.12 17.54L10 15.41L7.88 17.54L6.47 16.12L8.59 14L6.47 11.88L7.88 10.47L10 12.59L12.12 10.47L13.54 11.88L11.41 14L13.54 16.12M14 10V4.5L19.5 10H14Z";
+exports["default"] = mdiNoteRemove;

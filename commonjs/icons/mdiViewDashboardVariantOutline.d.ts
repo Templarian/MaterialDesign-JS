@@ -1,0 +1,2 @@
+declare const mdiViewDashboardVariantOutline: string;
+export default mdiViewDashboardVariantOutline;

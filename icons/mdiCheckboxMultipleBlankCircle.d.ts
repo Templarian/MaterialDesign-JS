@@ -1,0 +1,2 @@
+declare const mdiCheckboxMultipleBlankCircle: string;
+export default mdiCheckboxMultipleBlankCircle;

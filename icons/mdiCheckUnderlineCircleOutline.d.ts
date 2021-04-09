@@ -1,0 +1,2 @@
+declare const mdiCheckUnderlineCircleOutline: string;
+export default mdiCheckUnderlineCircleOutline;

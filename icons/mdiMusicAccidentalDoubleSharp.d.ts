@@ -1,0 +1,2 @@
+declare const mdiMusicAccidentalDoubleSharp: string;
+export default mdiMusicAccidentalDoubleSharp;

@@ -1,0 +1,2 @@
+declare const mdiNewspaperVariantMultipleOutline: string;
+export default mdiNewspaperVariantMultipleOutline;

@@ -1,0 +1,2 @@
+declare const mdiSortClockDescendingOutline: string;
+export default mdiSortClockDescendingOutline;

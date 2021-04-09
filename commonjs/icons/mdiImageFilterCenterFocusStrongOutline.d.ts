@@ -1,0 +1,2 @@
+declare const mdiImageFilterCenterFocusStrongOutline: string;
+export default mdiImageFilterCenterFocusStrongOutline;

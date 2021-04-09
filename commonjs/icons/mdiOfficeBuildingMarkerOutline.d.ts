@@ -1,0 +1,2 @@
+declare const mdiOfficeBuildingMarkerOutline: string;
+export default mdiOfficeBuildingMarkerOutline;

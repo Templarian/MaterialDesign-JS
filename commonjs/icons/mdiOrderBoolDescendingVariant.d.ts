@@ -1,0 +1,2 @@
+declare const mdiOrderBoolDescendingVariant: string;
+export default mdiOrderBoolDescendingVariant;

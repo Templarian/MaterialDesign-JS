@@ -1,0 +1,2 @@
+declare const mdiCardBulletedSettingsOutline: string;
+export default mdiCardBulletedSettingsOutline;

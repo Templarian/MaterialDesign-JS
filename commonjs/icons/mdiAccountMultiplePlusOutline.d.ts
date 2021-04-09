@@ -1,0 +1,2 @@
+declare const mdiAccountMultiplePlusOutline: string;
+export default mdiAccountMultiplePlusOutline;

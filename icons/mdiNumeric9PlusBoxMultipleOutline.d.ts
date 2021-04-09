@@ -1,0 +1,2 @@
+declare const mdiNumeric9PlusBoxMultipleOutline: string;
+export default mdiNumeric9PlusBoxMultipleOutline;

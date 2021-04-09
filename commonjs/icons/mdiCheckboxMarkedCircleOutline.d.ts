@@ -1,0 +1,2 @@
+declare const mdiCheckboxMarkedCircleOutline: string;
+export default mdiCheckboxMarkedCircleOutline;

@@ -1,0 +1,2 @@
+declare const mdiSyllabaryKatakanaHalfwidth: string;
+export default mdiSyllabaryKatakanaHalfwidth;

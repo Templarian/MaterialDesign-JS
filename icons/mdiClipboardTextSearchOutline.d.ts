@@ -1,0 +1,2 @@
+declare const mdiClipboardTextSearchOutline: string;
+export default mdiClipboardTextSearchOutline;

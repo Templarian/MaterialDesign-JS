@@ -1,0 +1,2 @@
+declare const mdiPictureInPictureBottomRight: string;
+export default mdiPictureInPictureBottomRight;

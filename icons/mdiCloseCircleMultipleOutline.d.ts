@@ -1,0 +1,2 @@
+declare const mdiCloseCircleMultipleOutline: string;
+export default mdiCloseCircleMultipleOutline;

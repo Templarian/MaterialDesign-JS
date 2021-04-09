@@ -1,0 +1,2 @@
+declare const mdiBatteryChargingWirelessOutline: string;
+export default mdiBatteryChargingWirelessOutline;

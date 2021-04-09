@@ -1,0 +1,2 @@
+declare const mdiSwapHorizontalCircleOutline: string;
+export default mdiSwapHorizontalCircleOutline;

@@ -1,0 +1,2 @@
+declare const mdiMicrosoftXboxControllerBatteryMedium: string;
+export default mdiMicrosoftXboxControllerBatteryMedium;

@@ -1,0 +1,2 @@
+declare const mdiClipboardArrowRightOutline: string;
+export default mdiClipboardArrowRightOutline;

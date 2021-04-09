@@ -1,0 +1,2 @@
+declare const mdiMicrosoftXboxControllerView: string;
+export default mdiMicrosoftXboxControllerView;

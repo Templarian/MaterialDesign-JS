@@ -1,0 +1,2 @@
+declare const mdiFileDocumentMultipleOutline: string;
+export default mdiFileDocumentMultipleOutline;

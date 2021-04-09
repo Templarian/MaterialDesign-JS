@@ -1,0 +1,2 @@
+declare const mdiMicrosoftXboxControllerOff: string;
+export default mdiMicrosoftXboxControllerOff;

@@ -1,0 +1,2 @@
+declare const mdiArrowRightDropCircleOutline: string;
+export default mdiArrowRightDropCircleOutline;

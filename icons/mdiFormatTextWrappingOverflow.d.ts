@@ -1,0 +1,2 @@
+declare const mdiFormatTextWrappingOverflow: string;
+export default mdiFormatTextWrappingOverflow;

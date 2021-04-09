@@ -1,0 +1,2 @@
+declare const mdiFridgeIndustrialOffOutline: string;
+export default mdiFridgeIndustrialOffOutline;

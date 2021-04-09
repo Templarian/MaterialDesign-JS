@@ -1,0 +1,2 @@
+declare const mdiContentSaveSettingsOutline: string;
+export default mdiContentSaveSettingsOutline;

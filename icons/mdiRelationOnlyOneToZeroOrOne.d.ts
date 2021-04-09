@@ -1,0 +1,2 @@
+declare const mdiRelationOnlyOneToZeroOrOne: string;
+export default mdiRelationOnlyOneToZeroOrOne;

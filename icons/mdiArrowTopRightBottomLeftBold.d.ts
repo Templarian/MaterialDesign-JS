@@ -1,0 +1,2 @@
+declare const mdiArrowTopRightBottomLeftBold: string;
+export default mdiArrowTopRightBottomLeftBold;

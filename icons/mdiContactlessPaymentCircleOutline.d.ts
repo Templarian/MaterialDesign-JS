@@ -1,0 +1,2 @@
+declare const mdiContactlessPaymentCircleOutline: string;
+export default mdiContactlessPaymentCircleOutline;

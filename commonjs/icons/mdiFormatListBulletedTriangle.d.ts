@@ -1,0 +1,2 @@
+declare const mdiFormatListBulletedTriangle: string;
+export default mdiFormatListBulletedTriangle;

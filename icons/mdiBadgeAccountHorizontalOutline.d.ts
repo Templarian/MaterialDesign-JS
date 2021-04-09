@@ -1,0 +1,2 @@
+declare const mdiBadgeAccountHorizontalOutline: string;
+export default mdiBadgeAccountHorizontalOutline;

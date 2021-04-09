@@ -1,0 +1,2 @@
+declare const mdiFormatHorizontalAlignCenter: string;
+export default mdiFormatHorizontalAlignCenter;

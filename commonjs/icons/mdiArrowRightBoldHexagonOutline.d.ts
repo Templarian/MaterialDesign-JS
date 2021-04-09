@@ -1,0 +1,2 @@
+declare const mdiArrowRightBoldHexagonOutline: string;
+export default mdiArrowRightBoldHexagonOutline;

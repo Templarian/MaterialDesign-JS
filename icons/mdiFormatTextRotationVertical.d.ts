@@ -1,0 +1,2 @@
+declare const mdiFormatTextRotationVertical: string;
+export default mdiFormatTextRotationVertical;

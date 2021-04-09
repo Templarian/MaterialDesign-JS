@@ -1,0 +1,2 @@
+declare const mdiHorizontalRotateCounterclockwise: string;
+export default mdiHorizontalRotateCounterclockwise;

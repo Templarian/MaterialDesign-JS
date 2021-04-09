@@ -1,0 +1,2 @@
+declare const mdiSourceCommitStartNextLocal: string;
+export default mdiSourceCommitStartNextLocal;

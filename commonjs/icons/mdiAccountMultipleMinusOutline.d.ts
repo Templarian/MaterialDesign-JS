@@ -1,0 +1,2 @@
+declare const mdiAccountMultipleMinusOutline: string;
+export default mdiAccountMultipleMinusOutline;

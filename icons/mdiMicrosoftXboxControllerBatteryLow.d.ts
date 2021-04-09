@@ -1,0 +1,2 @@
+declare const mdiMicrosoftXboxControllerBatteryLow: string;
+export default mdiMicrosoftXboxControllerBatteryLow;

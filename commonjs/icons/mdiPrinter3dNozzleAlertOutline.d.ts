@@ -1,0 +1,2 @@
+declare const mdiPrinter3dNozzleAlertOutline: string;
+export default mdiPrinter3dNozzleAlertOutline;

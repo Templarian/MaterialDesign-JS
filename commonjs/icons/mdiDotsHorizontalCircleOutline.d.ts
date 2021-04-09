@@ -1,0 +1,2 @@
+declare const mdiDotsHorizontalCircleOutline: string;
+export default mdiDotsHorizontalCircleOutline;

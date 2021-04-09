@@ -1,0 +1,2 @@
+declare const mdiChartTimelineVariantShimmer: string;
+export default mdiChartTimelineVariantShimmer;

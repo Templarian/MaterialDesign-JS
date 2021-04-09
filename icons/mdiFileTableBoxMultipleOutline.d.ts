@@ -1,0 +1,2 @@
+declare const mdiFileTableBoxMultipleOutline: string;
+export default mdiFileTableBoxMultipleOutline;

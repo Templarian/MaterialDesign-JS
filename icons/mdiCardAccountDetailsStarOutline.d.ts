@@ -1,0 +1,2 @@
+declare const mdiCardAccountDetailsStarOutline: string;
+export default mdiCardAccountDetailsStarOutline;

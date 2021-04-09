@@ -1,0 +1,2 @@
+declare const mdiSortAlphabeticalAscendingVariant: string;
+export default mdiSortAlphabeticalAscendingVariant;

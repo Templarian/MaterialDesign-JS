@@ -1,0 +1,2 @@
+declare const mdiAxisYRotateCounterclockwise: string;
+export default mdiAxisYRotateCounterclockwise;

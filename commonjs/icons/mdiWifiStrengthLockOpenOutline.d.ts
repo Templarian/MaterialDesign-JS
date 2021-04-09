@@ -1,0 +1,2 @@
+declare const mdiWifiStrengthLockOpenOutline: string;
+export default mdiWifiStrengthLockOpenOutline;

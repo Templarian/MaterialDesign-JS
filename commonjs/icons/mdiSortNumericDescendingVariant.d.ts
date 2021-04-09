@@ -1,0 +1,2 @@
+declare const mdiSortNumericDescendingVariant: string;
+export default mdiSortNumericDescendingVariant;

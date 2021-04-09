@@ -1,0 +1,2 @@
+declare const mdiCreditCardWirelessOffOutline: string;
+export default mdiCreditCardWirelessOffOutline;

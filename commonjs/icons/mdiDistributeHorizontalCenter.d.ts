@@ -1,0 +1,2 @@
+declare const mdiDistributeHorizontalCenter: string;
+export default mdiDistributeHorizontalCenter;
