@@ -3839,6 +3839,7 @@ export declare const mdiLeafMapleOff: string;
 export declare const mdiLeafOff: string;
 export declare const mdiLeak: string;
 export declare const mdiLeakOff: string;
+export declare const mdiLecturn: string;
 export declare const mdiLedOff: string;
 export declare const mdiLedOn: string;
 export declare const mdiLedOutline: string;
