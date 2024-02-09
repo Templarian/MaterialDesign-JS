@@ -6,6 +6,13 @@
   "module": "mdi.js",
   "types": "mdi.d.ts",
   "sideEffects": false,
+  "exports": {
+    ".": {
+      "types": "./mdi.d.ts",
+      "import": "./mdi.js",
+      "require": "./commonjs/mdi.js"
+    }
+  },
   "scripts": {
     "build": "npm update && npm install && npm run buildjs && npm run es5 && npm run commonjs",
     "buildjs": "node build.js",
